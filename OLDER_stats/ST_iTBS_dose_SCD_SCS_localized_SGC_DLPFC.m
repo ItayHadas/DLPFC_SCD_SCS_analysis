@@ -927,6 +927,7 @@ cd 'A:\WorkingSet\ThetaBurst_DOSE_ST\SCD-SCS'
 load('A:\WorkingSet\ThetaBurst_DOSE_ST\SCD-SCS\timevec.mat')
 load('A:\WorkingSet\ThetaBurst_DOSE_ST\SCD-SCS\GRANDtable_J_SCD_SCS_SGC_DLPFC_01-Jul-2021.mat')
 %% timecourse figures
+
 pretab=contains(datatable{:,2},'pre','IgnoreCase',true);
 posttab=contains(datatable{:,2},'post','IgnoreCase',true);
 dose600=contains(datatable{:,3},'600','IgnoreCase',true);
