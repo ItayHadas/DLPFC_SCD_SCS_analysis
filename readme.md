@@ -18,3 +18,6 @@ refs:
 primary outcome paper, including TEP, LICI and SICI including spectral decomposition analysis:
 
 Desforges, Manon, Itay Hadas, Brian Mihov, Yan Morin, Mathilde Rochette Braün, Pantelis Lioumis, Reza Zomorrodi, et al. “Dose-Response of Intermittent Theta Burst Stimulation of the Prefrontal Cortex: A TMS-EEG Study.” *Clinical Neurophysiology* 136 (January 20, 2022): 158–72. [https://doi.org/10.1016/j.clinph.2021.12.018](https://doi.org/10.1016/j.clinph.2021.12.018).
+
+
+![alt text](OLDER_stats/dose-response@4x.png)
